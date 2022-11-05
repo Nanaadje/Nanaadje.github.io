@@ -11,11 +11,12 @@ email: adjei.nana@aims.ac.rw
 author: Nana Adjei Owusu
 avatar: "https://github.com/Nanaadje/Nanaadje.github.io/blob/gh-pages/nana.jpg?raw=true"
 profile: A masters student at African Institute for Mathematical Sciences.
-twitter_username: Naawus1
+
 #github_username:  github_username
 profile_links:
   Email: "mailto:adjei.nana@aims.ac.rw"
   GitHub: "https://github.com/Nanaadje"
+  #twitter_username: Naawus1
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
